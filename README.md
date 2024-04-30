@@ -1,3 +1,15 @@
+## Projeto Foods da Full-Stack Week
+
+Nesse projeto estaremos trabalhando com Next, React e para o BD usarei o prisma
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
