@@ -2,8 +2,8 @@
 
 Nesse projeto estaremos trabalhando com Next, React e para o BD usarei o prisma e o Neon db para o Banco de Dados
 
-- Utilizei a seed para popular o banco de dados
-
+- Utilizei a seed para popular o banco de dados.
+- Todas as pastas que não são rotas estão começando com _, para identificar melhor.
 
 
 
