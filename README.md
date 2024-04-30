@@ -1,6 +1,8 @@
 ## Projeto Foods da Full-Stack Week
 
-Nesse projeto estaremos trabalhando com Next, React e para o BD usarei o prisma
+Nesse projeto estaremos trabalhando com Next, React e para o BD usarei o prisma e o Neon db para o Banco de Dados
+
+- Utilizei a seed para popular o banco de dados
 
 
 
