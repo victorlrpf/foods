@@ -7,8 +7,20 @@ Nesse projeto estaremos trabalhando com Next, React e para o BD usarei o prisma 
 
 
 
+## Comandos utilizados
 
-
+Para usar o banco de dados postgresql, usei o comando
+````
+npx prisma init --datasource-provider postgresql
+````
+Para fazer a migração do banco de dados usei o comando 
+````
+npx prisma migrate dev --name init_database   
+````
+E para a seed usei o  comando:
+````
+npx prisma db seed  
+````
 
 
 
