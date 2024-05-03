@@ -14,13 +14,13 @@ const Home = () => {
     <CategoryList />
   </div>
 
-  <div>
+  <div className="px-5 pt-6">
     <Image 
-    src="/Banner-promo01.png" 
+    src="/promo-banner01.png" 
     alt="até 30% de desconto em pizzas" 
     width={0} 
     height={0}
-    className="w-full h-auto"
+    className="w-full h-auto object-contain"
     sizes="100vw"
     quality={100}
     />
