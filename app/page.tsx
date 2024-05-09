@@ -64,7 +64,7 @@ const Home = async () => {
       <div className="px-5 pt-6">
         <Link href={`/categories/${pizzasCategory?.id}/products`}>
           <PromoBanner
-            src="/promo-banner-01.png"
+            src="/promo-banner01.png"
             alt="Até 30% de desconto em pizzas!"
           />
         </Link>
@@ -91,7 +91,7 @@ const Home = async () => {
       <div className="px-5 pt-6">
         <Link href={`/categories/${burguersCategory?.id}/products`}>
           <PromoBanner
-            src="/promo-banner-02.png"
+            src="/promo-banner02.png"
             alt="A partir de R$17,90 em lanches"
           />
         </Link>
